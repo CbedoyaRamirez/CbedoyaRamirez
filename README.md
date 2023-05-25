@@ -26,7 +26,7 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
 <h3> 🤝🏻 Contactame </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/carlos-alberto-bedoya-ramirez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@carlos-alberto-bedoya-ramirez-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/carlos-alberto-bedoya-ramirez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@carlosRamirez-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:bedoyacarlosalberto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bedoyacarlosalberto@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
