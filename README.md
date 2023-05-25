@@ -3,9 +3,9 @@
 
 <div>
  <p>
-Soy un desarrollador web de nivel medio capaz de construir una presencia web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprende rápido, trabaja duro y trabaja en equipo y domina una variedad de lenguajes de secuencias de comandos y herramientas web multimedia.
+Soy un desarrollador web de nivel medio capaz de construir una presencia web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabaja duro y trabaja en equipo y domino una variedad de lenguajes web  y herramientas web multimedia.
 
-Tengo excelentes habilidades de diseño y codificación, así como la capacidad de convertir requisitos en emocionantes aplicaciones en línea.
+Tengo excelentes habilidades de diseño y codificación, así como la capacidad de convertir requisitos en utilidades que puedan servir al usuario final.
  </p>
 </div>
 
@@ -17,8 +17,7 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="jQuery" width="24">](https://jquery.com/) 
  
 ### Herramientas 🛠️
-
-| 
+ 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) 
