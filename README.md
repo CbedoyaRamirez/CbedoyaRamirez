@@ -3,7 +3,7 @@
 
 <div>
  <p>
-Soy un desarrollador web de nivel medio capaz de construir una presencia web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabaja duro y trabaja en equipo y domino una variedad de lenguajes web  y herramientas web multimedia.
+Soy un desarrollador web capaz de construir una presencia web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabaja duro y trabaja en equipo y domino una variedad de lenguajes web  y herramientas web multimedia.
 
 Tengo excelentes habilidades de diseño y codificación, así como la capacidad de convertir requisitos en utilidades que puedan servir al usuario final.
  </p>
