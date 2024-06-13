@@ -9,6 +9,14 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
  </p>
 </div>
 
+<div>
+ <p>
+I'm a web developer capable of building an online presence from scratch, from concept to implementation, including design, navigation, and programming. I have the ability to write well-structured, testable, and efficient code using the best current practices in web development. I'm a fast learner, hard worker, and team player, and I have a mastery of various web programming languages and multimedia tools.
+
+My design and coding skills are excellent, and I have the ability to turn requirements into solutions that are useful for the end user.
+ </p>
+</div>
+
 ### Lenguajes de programación 🌐
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | 
